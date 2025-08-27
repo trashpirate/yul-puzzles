@@ -20,7 +20,7 @@ Go through the puzzles sequentially
 3. [Return42](./src/Return42.sol) ✅
 4. [RevertWithError](./src/RevertWithError.sol) ✅
 5. [RevertWithSelectorPlusArgs](./src/RevertWithSelectorPlusArgs.sol) ✅
-6. [RevertWithPanic](./src/RevertWithPanic.sol)  ✅
+6. [RevertWithPanic](./src/RevertWithPanic.sol) ✅
 7. [Double](./src/Double.sol) 
 8. [Calculator](./src/Calculator.sol) 
 9. [DoubleOrNothing](./src/DoubleOrNothing.sol) 
