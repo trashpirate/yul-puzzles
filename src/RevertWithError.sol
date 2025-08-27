@@ -11,7 +11,7 @@ contract RevertWithError {
             mstore(0x04, 0x20) // store offset to string: 32 (0x20) bytes
             mstore(0x24, 0xc) // length of string: 12 characters => 12 bytes
             mstore(0x44, "RevertRevert") // store data
-            revert(0x00, 0x64) // return 4 words of 32 bytes
+            revert(0x00, 0x64) // return 100 bytes: 4 + 32 + 32 + 32 = 100 = 0x64
         }
     }
 }
