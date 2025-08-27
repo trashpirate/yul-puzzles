@@ -27,7 +27,7 @@ Go through the puzzles sequentially
 10. [MaxOfTwoValues](./src/MaxOfTwoValues.sol) ✅
 11. [IsPrime](./src/IsPrime.sol) ✅
 12. [CalldataLength](./src/CalldataLength.sol) ✅
-13. [KeccakX](./src/KeccakX.sol) 
+13. [KeccakX](./src/KeccakX.sol) ✅
 14. [KeccakFirstCalldata](./src/KeccakFirstCalldata.sol) 
 15. [KeccakSecondCalldata](./src/KeccakSecondCalldata.sol) 
 16. [LengthOfDynamicArray](./src/LengthOfDynamicArray.sol) 
