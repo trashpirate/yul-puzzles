@@ -8,7 +8,15 @@ contract MaxOfTwoValues {
             // return the maximum value between x and y
             // assume the two values are not the same
             // Hint: use If-statement to check
+            // let max := x
+            // if lt(x, y) { max := y }
+            // mstore(0x00, max)
+            // return(0x00, 0x20)
 
+            switch lt(x, y)
+            case 0 { mstore(0x00, x) }
+            case 1 { mstore(0x00, y) }
+            return(0x00, 0x20)
             // here is how you do a conditional statement in yul
             // https://docs.soliditylang.org/en/latest/yul.html#if
         }
