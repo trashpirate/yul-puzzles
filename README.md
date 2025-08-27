@@ -25,7 +25,7 @@ Go through the puzzles sequentially
 8. [Calculator](./src/Calculator.sol) ✅
 9. [DoubleOrNothing](./src/DoubleOrNothing.sol) ✅
 10. [MaxOfTwoValues](./src/MaxOfTwoValues.sol) ✅
-11. [IsPrime](./src/IsPrime.sol) 
+11. [IsPrime](./src/IsPrime.sol) ✅
 12. [CalldataLength](./src/CalldataLength.sol) 
 13. [KeccakX](./src/KeccakX.sol) 
 14. [KeccakFirstCalldata](./src/KeccakFirstCalldata.sol) 

@@ -9,6 +9,15 @@ contract IsPrime {
             // 1. check if the number is a multiple of 2 or 3
             // 2. loop from 5 to x / 2 to see if it is divisible
             // 3. increment the loop by 2 to skip the even numbers
+
+            if eq(x, 3) {
+                mstore(0x00, 0x01)
+                return(0x00, 0x20)
+            }
+            if or(eq(x, 1), eq(mod(x, 2), 0)) { return(0x00, 0x20) }
+            for { let i := 5 } lt(i, div(x, 2)) { i := add(i, 2) } { if eq(mod(x, i), 0) { return(0x00, 0x20) } }
+            mstore(0x00, 0x01)
+            return(0x00, 0x20)
         }
     }
 }

@@ -17,6 +17,7 @@ contract MaxOfTwoValues {
             case 0 { mstore(0x00, x) }
             case 1 { mstore(0x00, y) }
             return(0x00, 0x20)
+
             // here is how you do a conditional statement in yul
             // https://docs.soliditylang.org/en/latest/yul.html#if
         }
