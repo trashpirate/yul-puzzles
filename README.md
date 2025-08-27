@@ -14,8 +14,8 @@ Now repeat this with the other puzzles.
 ## Suggested order of the Puzzles
 Go through the puzzles sequentially 
 
-0. [ReturnBool](./src/ReturnBool.sol) (_solved_)
-1. [SimpleRevert](./src/SimpleRevert.sol)
+0. [ReturnBool](./src/ReturnBool.sol) (_solved_) ✅
+1. [SimpleRevert](./src/SimpleRevert.sol) ✅
 2. [RevertWithSelector](./src/RevertWithSelector.sol)
 3. [Return42](./src/Return42.sol) 
 4. [RevertWithError](./src/RevertWithError.sol) 
