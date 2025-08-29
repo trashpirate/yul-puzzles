@@ -8,7 +8,7 @@ contract LengthOfDynamicArray {
             // return the length of array `x`
             // Hint: https://www.rareskills.io/post/solidity-dynamic
             // let l := mload(0)
-            return(0x80, 0x20)
+            return(x, 0x20)
         }
     }
 }
