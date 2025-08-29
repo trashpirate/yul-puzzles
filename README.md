@@ -30,7 +30,7 @@ Go through the puzzles sequentially
 13. [KeccakX](./src/KeccakX.sol) ✅
 14. [KeccakFirstCalldata](./src/KeccakFirstCalldata.sol) ✅
 15. [KeccakSecondCalldata](./src/KeccakSecondCalldata.sol) ✅
-16. [LengthOfDynamicArray](./src/LengthOfDynamicArray.sol) 
+16. [LengthOfDynamicArray](./src/LengthOfDynamicArray.sol) ✅ 
 17. [MaxOfArray](./src/MaxOfArray.sol) 
 18. [ReadFromStorage](./src/ReadFromStorage.sol) 
 19. [WriteToStorage](./src/WriteToStorage.sol) 
