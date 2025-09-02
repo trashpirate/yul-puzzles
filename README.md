@@ -34,7 +34,7 @@ Go through the puzzles sequentially
 17. [MaxOfArray](./src/MaxOfArray.sol)  ✅ 
 18. [ReadFromStorage](./src/ReadFromStorage.sol)  ✅ 
 19. [WriteToStorage](./src/WriteToStorage.sol)  ✅
-20. [ReadFromFixedArray](./src/ReadFromFixedArray.sol) 
+20. [ReadFromFixedArray](./src/ReadFromFixedArray.sol)  ✅
 21. [Tenary](./src/Tenary.sol) 
 22. [WriteToFixedArray](./src/WriteToFixedArray.sol) 
 23. [ReadFromDynamicArray](./src/ReadFromDynamicArray.sol) 
