@@ -32,7 +32,7 @@ Go through the puzzles sequentially
 15. [KeccakSecondCalldata](./src/KeccakSecondCalldata.sol) ✅
 16. [LengthOfDynamicArray](./src/LengthOfDynamicArray.sol) ✅ 
 17. [MaxOfArray](./src/MaxOfArray.sol)  ✅ 
-18. [ReadFromStorage](./src/ReadFromStorage.sol) 
+18. [ReadFromStorage](./src/ReadFromStorage.sol)  ✅ 
 19. [WriteToStorage](./src/WriteToStorage.sol) 
 20. [ReadFromFixedArray](./src/ReadFromFixedArray.sol) 
 21. [Tenary](./src/Tenary.sol) 

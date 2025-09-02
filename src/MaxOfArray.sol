@@ -7,6 +7,7 @@ contract MaxOfArray {
             // your code here
             // return the maximum value in the array
             // revert if array is empty
+            // my mistake was to think the free memory pointer would point to the beginning of the stored variable. It actually points to the slot after the stored variable.
             let length := mload(arr)
             let ptr := add(arr, 0x20)
             let max
