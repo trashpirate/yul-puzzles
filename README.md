@@ -37,7 +37,7 @@ Go through the puzzles sequentially
 20. [ReadFromFixedArray](./src/ReadFromFixedArray.sol)  ✅
 21. [Tenary](./src/Tenary.sol) ✅
 22. [WriteToFixedArray](./src/WriteToFixedArray.sol) ✅ 
-23. [ReadFromDynamicArray](./src/ReadFromDynamicArray.sol) 
+23. [ReadFromDynamicArray](./src/ReadFromDynamicArray.sol) ✅ 
 24. [WriteToDynamicArray](./src/WriteToDynamicArray.sol) 
 25. [ReadFromMapping](./src/ReadFromMapping.sol) 
 26. [WriteToMapping](./src/WriteToMapping.sol) 
