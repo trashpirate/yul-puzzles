@@ -29,13 +29,13 @@ Go through the puzzles sequentially
 12. [CalldataLength](./src/CalldataLength.sol) ✅
 13. [KeccakX](./src/KeccakX.sol) ✅
 14. [KeccakFirstCalldata](./src/KeccakFirstCalldata.sol) ✅
-15. [KeccakSecondCalldata](./src/KeccakSecondCalldata.sol) ✅
+15. [KeccakSecondCalldata](./src/KeccakSecondCalldata.sol) ✅ 
 16. [LengthOfDynamicArray](./src/LengthOfDynamicArray.sol) ✅ 
 17. [MaxOfArray](./src/MaxOfArray.sol)  ✅ 
 18. [ReadFromStorage](./src/ReadFromStorage.sol)  ✅ 
 19. [WriteToStorage](./src/WriteToStorage.sol)  ✅
 20. [ReadFromFixedArray](./src/ReadFromFixedArray.sol)  ✅
-21. [Tenary](./src/Tenary.sol) 
+21. [Tenary](./src/Tenary.sol) ✅
 22. [WriteToFixedArray](./src/WriteToFixedArray.sol) 
 23. [ReadFromDynamicArray](./src/ReadFromDynamicArray.sol) 
 24. [WriteToDynamicArray](./src/WriteToDynamicArray.sol) 
