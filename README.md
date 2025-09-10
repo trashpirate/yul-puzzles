@@ -39,7 +39,7 @@ Go through the puzzles sequentially
 22. [WriteToFixedArray](./src/WriteToFixedArray.sol) ✅ 
 23. [ReadFromDynamicArray](./src/ReadFromDynamicArray.sol) ✅ 
 24. [WriteToDynamicArray](./src/WriteToDynamicArray.sol) ✅
-25. [ReadFromMapping](./src/ReadFromMapping.sol) 
+25. [ReadFromMapping](./src/ReadFromMapping.sol) ✅
 26. [WriteToMapping](./src/WriteToMapping.sol) 
 27. [PushToDynamicArray](./src/PushToDynamicArray.sol) 
 28. [PopFromDynamicArray](./src/PopFromDynamicArray.sol) 
