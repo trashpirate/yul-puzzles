@@ -45,7 +45,7 @@ Go through the puzzles sequentially
 28. [PopFromDynamicArray](./src/PopFromDynamicArray.sol) ✅
 29. [ReadFromDoubleMapping](./src/ReadFromDoubleMapping.sol) ✅
 30. [ReadFromDynamicArrayAndRevertOnFailure](./src/ReadFromDynamicArrayAndRevertOnFailure.sol) ✅
-31. [WriteToDoubleMapping](./src/WriteToDoubleMapping.sol) 
+31. [WriteToDoubleMapping](./src/WriteToDoubleMapping.sol)  ✅
 32. [WriteDynamicArrayToStorage](./src/WriteDynamicArrayToStorage.sol) 
 33. [WriteTwoDynamicArraysToStorage](./src/WriteTwoDynamicArraysToStorage.sol) 
 34. [ReadFromPacked128](./src/ReadFromPacked128.sol) 
