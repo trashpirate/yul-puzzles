@@ -6,7 +6,7 @@ contract WriteToDynamicArray {
 
     function main(uint256[] memory x) external {
         assembly {
-            // getting array length
+            // get array length
             let length := mload(x)
 
             // compute memory location of first element
@@ -19,6 +19,7 @@ contract WriteToDynamicArray {
             // store length
             sstore(writeHere.slot, length)
 
+            // looping through elements
             for { let i := 0 } lt(i, length) { i := add(i, 1) } {
                 sstore(add(sloc, i), mload(mloc))
                 mloc := add(mloc, 0x20)
